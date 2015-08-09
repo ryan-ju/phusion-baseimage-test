@@ -1,5 +1,4 @@
-# Image contains:
-# * Opscenter 5.2.0
+# Test image for Phusion Baseimage
 
 FROM phusion/baseimage:latest
 
